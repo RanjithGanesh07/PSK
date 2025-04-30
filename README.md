@@ -81,6 +81,7 @@ The following waveforms will be displayed:
 
 ![image](https://github.com/user-attachments/assets/df2c600e-8109-454e-ab52-5dd50a611a58)
 
+![WhatsApp Image 2025-04-30 at 13 23 51_8c768c38](https://github.com/user-attachments/assets/38b1e35b-4bbe-4e32-a3c0-43459daa244d)
 
 ## Results:
 
